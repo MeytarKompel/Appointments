@@ -1,0 +1,14 @@
+.AddAppoint > form {
+    width: 250px;
+    margin: auto;
+    text-align: left;
+    border: 1px solid;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.AddAppoint select, .AddAppoint input, .AddAppoint button{
+    width: 100%;
+    margin-bottom: 20px;
+    box-sizing: border-box;
+}
